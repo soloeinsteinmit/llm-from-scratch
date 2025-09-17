@@ -34,13 +34,13 @@ This educational series breaks down the complexity of Large Language Models into
 | Part   | Topic                                  | Status      | Article                                                                                                                  | Code                                 |
 | ------ | -------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
 | **01** | The Complete Theoretical Foundation    | ✅ Complete | [Medium](https://soloshun.medium.com/building-llms-from-scratch-part-1-the-complete-theoretical-foundation-e66b45b7f379) | N/A                                  |
-| **02** | Tokenization                           | ✅ Complete | [Medium](.)                                                                                                              | [Code](./src/part02_tokenization.py) |
-| **03** | Token Embeddings & Positional Encoding | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
+| **02** | Tokenization                           | ✅ Complete | [Medium](https://medium.com/@soloshun/building-llms-from-scratch-part-2-tokenization-e0bf05d24094)                                                                                                              | [Code](./src/part02_tokenization.py) |
+<!-- | **03** | Token Embeddings & Positional Encoding | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
 | **04** | Self-Attention Mechanism               | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
 | **05** | Multi-Head Attention                   | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
 | **06** | Transformer Blocks & Architecture      | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
 | **07** | Training Loop & Optimization           | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
-| **08** | Model Evaluation & Fine-tuning         | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       |
+| **08** | Model Evaluation & Fine-tuning         | ⏳ Planned  | [Medium](.)                                                                                                              | [Code](./src/)                       | -->
 
 _Legend: ✅ Complete | 🔄 In Progress | ⏳ Planned_
 
@@ -85,8 +85,8 @@ llm-from-scratch/
 │   └── ...
 │
 ├── animations/               # Manim visualizations and diagrams
-│   ├── attention_visualization.py
-│   └── generated/            # Generated animation files
+│   └── part-02-WordTokenizationScene.mp4    # Generated animation files
+│              
 │
 └── src/                      # Source code for each part
     ├── part02_tokenization.py
