@@ -1,4 +1,7 @@
 manim/
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+ROADMAP.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
