@@ -6,7 +6,7 @@ This module contains a clean, reusable implementation of the combined token
 and positional embedding layer for a GPT-style model.
 
 Author: Solomon Eshun
-Article: https://soloshun.medium.com/link-to-part-4
+Article: https://soloshun.medium.com/building-llms-from-scratch-part-4-embedding-layer-0803f6b8495b
 Repository: https://github.com/soloeinsteinmit/llm-from-scratch
 """
 
