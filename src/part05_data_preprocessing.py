@@ -6,7 +6,7 @@ This module demonstrates the complete end-to-end data preprocessing pipeline
 that transforms raw text into model-ready tensors for LLM training.
 
 Author: Solomon Eshun
-Article: https://soloshun.medium.com/link-to-part-5
+Article: https://soloshun.medium.com/building-llms-from-scratch-part-5-the-complete-data-preprocessing-pipeline-5247a8ee232a
 Repository: https://github.com/soloeinsteinmit/llm-from-scratch
 """
 
@@ -248,7 +248,7 @@ def demo():
     print("\n" + "=" * 60)
     print("🎉 Demo complete!")
     print("\nCheck out the full tutorial:")
-    print("📝 Medium: https://soloshun.medium.com/link-to-part-5")
+    print("📝 Medium: https://soloshun.medium.com/building-llms-from-scratch-part-5-the-complete-data-preprocessing-pipeline-5247a8ee232a")
     print("📂 GitHub: https://github.com/soloeinsteinmit/llm-from-scratch")
     print("📓 Interactive notebook: notebooks/part05_data_preprocessing.ipynb")
 

@@ -45,7 +45,7 @@ Let's briefly recap how we implemented each step.
 
 ## Chapter 2: Recap - From Text to Tokens (Step 1)
 
-In [Part 2](https://soloshun.medium.com/building-llms-from-scratch-part-2-the-power-of-tokenization-a41553f22575), we explored tokenization. We learned that simple word-based tokenizers struggle with large vocabularies and out-of-vocabulary words.
+In [Part 2](https://medium.com/@soloshun/building-llms-from-scratch-part-2-tokenization-e0bf05d240945), we explored tokenization. We learned that simple word-based tokenizers struggle with large vocabularies and out-of-vocabulary words.
 
 We chose to use a **Byte Pair Encoding (BPE)** tokenizer, specifically OpenAI's `tiktoken` library for GPT-2. This subword tokenization strategy gives us a great balance:
 
@@ -59,7 +59,7 @@ We chose to use a **Byte Pair Encoding (BPE)** tokenizer, specifically OpenAI's 
 
 ## Chapter 3: Recap - From Tokens to Training Examples (Step 2)
 
-A model doesn't learn from one giant stream of tokens. In [Part 3](https://soloshun.medium.com/building-llms-from-scratch-part-3-crafting-the-data-pipeline-8389c252274c), we built a `Dataset` class to create meaningful training examples.
+A model doesn't learn from one giant stream of tokens. In [Part 3](https://medium.com/@soloshun/building-llms-from-scratch-part-3-data-pipeline-4ef6eb7ad154), we built a `Dataset` class to create meaningful training examples.
 
 Using a **sliding window** approach, we slide across our token sequence to create `(input, target)` pairs.
 
