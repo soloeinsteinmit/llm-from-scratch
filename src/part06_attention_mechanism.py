@@ -7,7 +7,7 @@ behind transformer models. We implement attention without trainable weights to
 understand the fundamental mechanics.
 
 Author: Solomon Eshun
-Article: https://soloshun.medium.com/link-to-part-6
+Article: https://soloshun.medium.com/building-llms-from-scratch-part-6-the-attention-mechanism-b7ffc18c0dae
 Repository: https://github.com/soloeinsteinmit/llm-from-scratch
 """
 
@@ -330,7 +330,7 @@ def demo():
     print(f"\n" + "="*60)
     print("🎉 Demo complete!")
     print("\nCheck out the full tutorial:")
-    print("📝 Medium: https://soloshun.medium.com/link-to-part-6")
+    print("📝 Medium: https://soloshun.medium.com/building-llms-from-scratch-part-6-the-attention-mechanism-b7ffc18c0dae")
     print("📂 GitHub: https://github.com/soloeinsteinmit/llm-from-scratch")
     print("📓 Interactive notebook: notebooks/part06_attention_mechanism.ipynb")
 
