@@ -7,7 +7,7 @@ This is the foundation of transformer models like GPT, where the model learns op
 attention patterns during training.
 
 Author: Solomon Eshun
-Article: https://soloshun.medium.com/building-llms-from-scratch-part-7-self-attention-with-weights
+Article: https://soloshun.medium.com/building-llms-from-scratch-part-7-self-attention-with-trainable-weights-641035115cc6
 Repository: https://github.com/soloeinsteinmit/llm-from-scratch
 """
 
@@ -470,7 +470,7 @@ def demo():
     print(f"\n" + "="*60)
     print("🎉 Demo complete!")
     print("\nCheck out the full tutorial:")
-    print("📝 Medium: https://soloshun.medium.com/building-llms-from-scratch-part-7-self-attention-with-weights")
+    print("📝 Medium: https://soloshun.medium.com/building-llms-from-scratch-part-7-self-attention-with-trainable-weights-641035115cc6")
     print("📂 GitHub: https://github.com/soloeinsteinmit/llm-from-scratch")
     print("📓 Interactive notebook: notebooks/part07_self_attention_with_weights.ipynb")
     
