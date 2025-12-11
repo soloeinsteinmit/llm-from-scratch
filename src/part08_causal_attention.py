@@ -8,7 +8,7 @@ the model from "peeking" at future tokens. This is essential for autoregressive
 text generation in models like GPT.
 
 Author: Solomon Eshun
-Article: https://soloshun.medium.com/building-llms-from-scratch-part-8-causal-attention
+Article: https://medium.com/@soloshun/building-llms-from-scratch-part-8-causal-attention-6e4a0578c88c
 Repository: https://github.com/soloeinsteinmit/llm-from-scratch
 """
 
@@ -407,7 +407,7 @@ def demo():
     print(f"\n" + "="*60)
     print("🎉 Demo complete!")
     print("\nCheck out the full tutorial:")
-    print("📝 Medium: https://soloshun.medium.com/building-llms-from-scratch-part-8-causal-attention")
+    print("📝 Medium: https://medium.com/@soloshun/building-llms-from-scratch-part-8-causal-attention-6e4a0578c88c")
     print("📂 GitHub: https://github.com/soloeinsteinmit/llm-from-scratch")
     print("📓 Interactive notebook: notebooks/part08_causal_attention.ipynb")
     
